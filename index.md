@@ -7,22 +7,18 @@ nav_order: 1
 This workshop is in development and not yet complete.
 {: .warn}
 
-# Introduction to GIS and Mapping
+# Introduction to Mapmaking with QGIS
+This resource provides an overview of mapmaking with QGIS, a free and open-source Geographic Information System (GIS) for analyzing, modifying, and visualizing spatial data. By the end of this short overview, you will: 
 
-What this is
-Prerequisite for other RC workshops on GIS and Mapping
-Work through asynchronously 
+1. Be able to identify different kinds of spatial data;
+2. Understand how GISs work and the advantages to using QGIS;
+3. Know when to use a reference map vs. a thematic map; and 
+4. Be familiar with the QGIS interface, having downloaded the software and practiced setting up a project. 
 
-
-## Learning objectives
-At the end of this short overview, you will be able to:
-1. spatial data
-2. Understand how GIS is used - what QGIS is
-3. Understand the difference between thematic maps and reference maps
-4. Be able to install, open and set up a QGIS project
+The skills and concepts introduced by this resource are fundamental to mapmaking with QGIS. **If you have not used QGIS before, Reviewing this resource, either by asynchronously working through it on your own or by attending a 1-hour facilitation of its content, is prerequisite for attending any of the Research Commons GIS and Mapping workshops.** While you are welcome to register for upcoming workshops, please take an hour to review the following material prior to the workshop date. That way we can spend all our time learning new skills together!
 
 
-
+ <br><br>
 
 #### GIS Resources at UBC:
 

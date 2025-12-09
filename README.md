@@ -3,7 +3,8 @@
 
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
 
-Description: Add a short workshop description here (on one line starting with "Description:"). If the workshop is featured, this description will appear on the featured workshops web page.   
+Description: This resource provides an overview of the fundamental skills and concepts to begin mapmaking with QGIS. **Reviewing this resource is prerequisite for attending any of the Research Commons' GIS and Mapping workshops.**
+
 
 Link to workshop: [ubc-library-rc.github.io/gis-mapping-intro/](https://ubc-library-rc.github.io/gis-mapping-intro/)
 
