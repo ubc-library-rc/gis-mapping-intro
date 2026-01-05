@@ -27,6 +27,7 @@ With that in mind, there are 3 main forms of GISs:
 There are a variety of GIS available, some proprietary and some free and open source. Free and open source means... It is for this reason that Research Commons workshops on GIS and Mapping use QGIS, a popular free and open-source GIS you can download directly to your computer. 
 
 
+
 <br>
 
 -----
@@ -66,9 +67,11 @@ Once you've reviewed this GIS 101 workshop, we invite you to attend any of UBC R
 - [Plugins with QGIS](https://ubc-library-rc.github.io/gis-plugins-qgis/)
 
 
+The best way to learn QGIS is through the experience that comes with hands-on practice. QGIS has with a medium learning curve, especially if you’ve never used a GIS before. However, don’t let this dissuade you! The abundance of QGIS-official and unofficial documentation means you can tailer your learning experience to your interests and the specific needs of your project.
+
 -----
 
-# Installing QGIS
+# Downloading & Installing QGIS
 
 QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site/forusers/download.html). In most cases, you'll want to download and install the **Long term release** instead of the latest release. This will give you most of the functionality you'll need without encountering the software bugs of newly released versions.
 
