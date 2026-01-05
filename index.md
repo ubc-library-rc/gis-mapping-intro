@@ -7,22 +7,27 @@ nav_order: 1
 This workshop is in development and not yet complete.
 {: .warn}
 
-# Introduction to Mapmaking with QGIS
+# Introduction to Mapmaking with QGIS 
+**As a GIS 101 tutorial, review of this resource is prerequisite for attending all other GIS and Mapping workshops facilitated by the Research Commons.** 
+              
 This resource provides an overview of mapmaking with QGIS, a free and open-source Geographic Information System (GIS) for analyzing, modifying, and visualizing spatial data. By the end of this short overview, you will: 
 
-1. Be able to identify different kinds of spatial data;
-2. Understand how GISs work and the advantages to using QGIS;
-3. Know when to use a reference map vs. a thematic map; and 
-4. Be familiar with the QGIS interface, having downloaded the software and practiced setting up a project. 
+1. Understand what a GIS is, and the advantages to using QGIS;
+2. Be able to identify different kinds of spatial data;
+3. Know when to use a reference map vs. a thematic map; and
+4. Be familiar with the QGIS interface, having downloaded the software and practiced setting up a QGIS project. 
 
-The skills and concepts introduced by this resource are fundamental to mapmaking with QGIS. **If you have not used QGIS before, Reviewing this resource, either by asynchronously working through it on your own or by attending a 1-hour facilitation of its content, is prerequisite for attending any of the Research Commons GIS and Mapping workshops.** While you are welcome to register for upcoming workshops, please take an hour to review the following material prior to the workshop date. That way we can spend all our time learning new skills together!
+The skills and concepts introduced by this resource are fundamental to mapmaking with QGIS. **Reviewing this resource, either by working through it asynchronously on your own or by attending a 1-hour facilitation of its content, is prerequisite for attending any of the Research Commons GIS and Mapping workshops.** While you are welcome to register for upcoming workshops, please take an hour to review the following material prior to the workshop date. That way we can spend all our time learning new skills together!
+
+
+
 
 
  <br><br>
 
 #### GIS Resources at UBC:
 
-- General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)
+<!-- - General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/) -->
 - UBC Library guide for finding and working with GIS resources: [guides.library.ubc.ca/gis](http://guides.library.ubc.ca/gis)
 - Archive of [Research Commons workshops](https://ubc-library-rc.github.io/)
 - Research Commons [Events Calender](https://researchcommons.library.ubc.ca/events/) for upcoming facilitated workshops
