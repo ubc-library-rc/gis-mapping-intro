@@ -18,16 +18,17 @@ The following pages outline the two main kinds of maps: **reference maps** and *
 
 ----
 #### Research Commons Workshops on Mapmaking and Spatial Analysis
-(See the [Events Calender here](https://researchcommons.library.ubc.ca/events/) for a schedule of facilitated workshops, or work through the workshop websites at your own pace.)
+(See the [Events Calender here](https://researchcommons.library.ubc.ca/events/) for a schedule of facilitated workshops, or work through the workshop websites below at your own pace.)
 <!-- -  [Intro to Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) -->
 - [Reference Mapping with QGIS](https://ubc-library-rc.github.io/gis-reference-mapping/)
 - [Thematic Mapping with QGIS]( https://ubc-library-rc.github.io/gis-thematic-mapping/)
 - [Tools and Workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/)
 - [Plugins with QGIS](https://ubc-library-rc.github.io/gis-plugins-qgis/)
+- [Georeferencing Historical Maps with QGIS](https://ubc-library-rc.github.io/gis-georeferencing/)
 
-- [Project Design for Spatial Storytelling](https://ubc-library-rc.github.io/gis-spatial-stories/)
+#### Project Design for Spatial Storytelling
+- [Telling spatial stories with your data](https://ubc-library-rc.github.io/gis-spatial-stories/)
 
-
+#### Webmapping workshops
 - [Introduction to Webmapping](https://ubc-library-rc.github.io/gis-intro-leaflet/)
 - [Creating Storymaps with ArcGIS Online](https://ubc-library-rc.github.io/gis-storymaps/)
-- [Georeferencing Historical Maps with QGIS](https://ubc-library-rc.github.io/gis-georeferencing/)
