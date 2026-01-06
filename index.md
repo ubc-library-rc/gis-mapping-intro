@@ -4,9 +4,6 @@ title: Introduction
 nav_order: 1
 ---
 
-This workshop is in development and not yet complete.
-{: .warn}
-
 # Introduction to Mapmaking with QGIS 
 **As a GIS 101 tutorial, review of this resource is prerequisite for attending all other GIS and Mapping workshops facilitated by the Research Commons.** 
               
