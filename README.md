@@ -1,8 +1,6 @@
 # Introduction to GIS and Mapping
 ### UBC Library Research Commons
 
-:heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
-
 Description: This resource provides an overview of the fundamental skills and concepts to begin mapmaking with QGIS. **Reviewing this resource is prerequisite for attending any of the Research Commons' GIS and Mapping workshops.**
 
 
