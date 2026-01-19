@@ -12,6 +12,18 @@ nav_order: 20
 - [All Workshops (GitHub)](https://github.com/orgs/ubc-library-rc/repositories)
 - [UBC Research Commons home page](https://researchcommons.library.ubc.ca/)
 
+## More Workshops
+For more workshops on spatial tools, including geographic information systems (GIS) and mapping, please see the following:
+
+- [Intro to Mapmaking with QGIS](https://ubc-library-rc.github.io/gis-mapping-intro/)
+- [Reference mapping for Academic Publication](https://ubc-library-rc.github.io/gis-reference-mapping/)
+- [Making a choropleth map with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
+- [Tools and workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/)
+- [Plugins with QGIS](https://ubc-library-rc.github.io/gis-plugins-qgis/)
+- [Georeferencing Historical Maps with QGIS](https://ubc-library-rc.github.io/gis-georeferencing/)
+- [Intro to Webmapping](https://ubc-library-rc.github.io/gis-intro-leaflet/)
+- [Storymaps with ArcGIS Online](https://github.com/ubc-library-rc/gis-storymaps)
+- [Telling Spatial Stories](https://ubc-library-rc.github.io/gis-spatial-stories/)
 
 ## Site Acknowledgements
 
