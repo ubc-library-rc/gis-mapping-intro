@@ -31,16 +31,13 @@ Download the folder below to a location on your physical computer, such as Deskt
 
 [Download Data](../gis101-tutorial.zip){: .btn .btn-blue }
 
-Unzipping the folder is important as this is the only way to access it's contents. Inside the unzipped folder `gis101-tutorial` there will be a file called `tutorial-project_YOURNAME.qgz`. This is a QGIS project. Double click it or right-click and choose to open it with QGIS. 
+Unzipping the folder is important as this is the only way to access it's contents. Inside the unzipped folder `gis101-tutorial` there will be a file called `tutorial-project_YOURNAME.qgz`. This is a QGIS project. Double click this file or right-click it, and choose to open with QGIS. 
 
-<!-- 
 If you have successfully downloaded and installed QGIS, the application should open and look like this:
 
+<img src="./images/open-project_20260202.png" style="width:100%">
 
-<img src="./images/qgis-new-empty-project.png" style="width:100%">
-
- Note that even though a project was prepared for you, because it doesn't have any data loaded into it yet, QGIS considers it an empty project.  Double click “New Empty Project” to open a new QGIS project. (If nothing changes, that's okay! Once you add data everything will be fine.) -->
-
+<br>
 
 To Do
 {: .label .label-green }
@@ -50,7 +47,7 @@ To save your project, navigate to the `Project` Menu at the stop of your screen 
 
 It is important to regularly save your project while working in QGIS by clicking the "Save" option. Just like with documents in a text editor, you can always "Save As" to save your project as a new file, thus creating multiple back-up versions of an original. 
 
-You can also use the <img src="./images/save-tool.png" style="width:10%"> in your **Toolbar** to save your project regularly. 
+<img src="./images/save-tool.png" style="width:6%"> You can also use the in your **Toolbar** to save your project regularly. 
 
 <br>
 
@@ -105,6 +102,7 @@ The application Options window looks like the image below. Most customizations y
 
 
 
+
 ## Loading Data 
 Once you've acquainted yourself with the QGIS interface, it's time to add some data to your project. Vector and raster data has been prepared for you in the `data` subfolder of the `gis101-tutorial` folder you already downloaded and unzipped. The data within is all from the [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/pages/home/), though modified slightly in preparation for your use.
  
@@ -129,7 +127,7 @@ If you look at it from your computer - you'll recognize the file extensions - ve
 - Finally, `vancouver-parks.geojson` is a geoJSON file containing vector data on city parks. 
 
 
-### Loading data to QGIS
+### **Loading data to QGIS**
 {: .no_toc}
 
 There are a couple ways to add data to your map canvas. 
