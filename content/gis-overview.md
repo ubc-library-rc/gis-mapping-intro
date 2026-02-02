@@ -34,7 +34,7 @@ There are a variety of GIS available, some proprietary and some free and open so
 
 <img src="./images/QGIS-logo.png" style="width:30%">
 
-[QGIS](https://qgis.org/) is a popular desktop GIS software, and considered a free and open source software (FOSS) with a very active development community. Take a moment to browse their website.
+[QGIS](https://qgis.org/) is a popular desktop GIS software, and considered a free and open source software (FOSS) with a very active developer community. Take a moment to browse their website.
 
 ## QGIS Advantages  ⇡
 
@@ -42,7 +42,7 @@ There are a variety of GIS available, some proprietary and some free and open so
  - QGIS runs on Windows, Mac, Linux, Android operating systems, meaning you don't need a specific kind of device to use it. Some proprietary and costly software, such as ArcGIS, only run on Windows computers making it difficult to use without specialized equipment. 
  - QGIS has extensive online documentation, including a comprehensive official [User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html) *and* [Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html), as well as numerous YouTube and internet resources/tutorials created by users like you. 
  - QGIS has an intuitive interface which can be customized by the user. 
- - QGIS has an active development and user communities, meaning people are constantly posing and answering questions on platforms such as Reddit and StackExchange. This makes troubleshooting a whole lot easier. There is also an annual [QGIS User Conference](https://uc2025.qgis.org/)!
+ - QGIS has an active development and user communities, meaning people are constantly posing and answering questions on platforms such as Reddit,  StackExchange, and YouTube. This makes troubleshooting a whole lot easier. There is also an annual [QGIS User Conference](https://uc2026.qgis.org/activities/)!
  - QGIS has a robust [plugin](https://plugins.qgis.org/) repository for extended functionality. This means the application you download to begin with doesn't contain every single tool available, just the necessary and commonly used ones. 
 
 ## QGIS Disadvantages ⇣
@@ -50,14 +50,14 @@ There are a variety of GIS available, some proprietary and some free and open so
  - Most recent features can be buggy, which is why we recommend always downloading the latest Long Term Release, often small hyperlink below main download button. 
  - Plugins lack standardized documentation as they are largely user-community developed and contributed
  - Troubleshooting often amounts to searching the web, though this is an important skill to have as a cartographer. 
- - not for xyz - not so much xyz - tools - advanced spatial analysis, routing, raster xyz
+ - Not ideal for more elaborate spatial analysis or network analysis workflows. 
 
 
 ## QGIS Resources 
 {: .no_toc} 
-QGIS itself has extensive online documentation, including a robust [User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html) *and* [Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html).
+QGIS itself has extensive online documentation, including a robust [User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html) *and* [Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html). 
     
-QGIS also has a vibrant user community, with answers to nearly any question you might have only a web search away. Many helpful tutorial demonstrations can be found on Youtube. [CWU Geography](https://www.youtube.com/@cwugeography3290) offers especially clear and helpful content. 
+QGIS also has a vibrant user community, with answers to nearly any question you might have only a web search away. Many helpful tutorial demonstrations can be found on Youtube. For instance, [CWU Geography](https://www.youtube.com/@cwugeography3290) offers especially clear and helpful content, but there are many, many others. 
 
 Once you've reviewed this GIS 101 workshop, we invite you to attend any of UBC Research Commons's mapping with QGIS workshops (colored teal in the [Events Calender here](https://researchcommons.library.ubc.ca/events/)):
 -  [Intro to Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
