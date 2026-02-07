@@ -39,7 +39,7 @@ There are a variety of GIS available, some proprietary and some free and open so
 ## QGIS Advantages  ⇡
 
  - QGIS is free and open source, meaning you can download it directly from the web to your personal computer. 
- - QGIS runs on Windows, Mac, Linux, Android operating systems, meaning you don't need a specific kind of device to use it. Some proprietary and costly software, such as ArcGIS, only run on Windows computers making it difficult to use without specialized equipment. 
+ - QGIS runs on Windows, Mac, Linux, operating systems, meaning you don't need a specific kind of device to use it. Some proprietary and costly software, such as ArcGIS, only run on Windows computers making it difficult to use without specialized equipment. 
  - QGIS has extensive online documentation, including a comprehensive official [User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html) *and* [Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html), as well as numerous YouTube and internet resources/tutorials created by users like you. 
  - QGIS has an intuitive interface which can be customized by the user. 
  - QGIS has an active development and user communities, meaning people are constantly posing and answering questions on platforms such as Reddit,  StackExchange, and YouTube. This makes troubleshooting a whole lot easier. There is also an annual [QGIS User Conference](https://uc2026.qgis.org/activities/)!
